@@ -1,0 +1,16 @@
+11John Polk                4 Democrat            Tennessee
+9 William Harrison       a 1 Whig                Ohio
+33Harry Truman             8 Democrat            Missouri
+42Bill Clinton             8 Democrat            Arkansas
+18Ulysses Grant            8 Republican          Illinois
+21Chester Arthur           4 Republican          New York
+29Warren Harding         a 3 Republican          Ohio
+12Zachary Taylor         a 1 Whig                Louisiana
+8 Martin Van_Buren         4 Democrat            New York
+10John Tyler               1 Whig                Virginia
+15James Buchanan           4 Democrat            Pennsylvania
+26Theodore Roosevelt       8 Republican          New York
+37Richard Nixon          b 5 Republican          California
+39Jimmy Carter             4 Democrat            Georgia
+1 George Washington        8 Federalist          Virginia
+43George Bush              8 Republican          Texas
